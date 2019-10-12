@@ -1,0 +1,17 @@
+def print_menu():
+    print("\n\n\n")
+    print('*' * 40)
+    print('Warehouse Control System')
+    print('*' * 40)
+
+    print('[1] Register new item')
+    print('[2] List all items')
+    print('[3] Update the stock')
+    print('[4] List items with no stock')
+    print('[5] Remove an item')
+    print('[6] Print all categories')
+    print('[7] Print stock value')
+    print('[8] Register purchase')
+    print('[9] Register sale')
+    print('[10] See log of events')
+    print('[x] Exit')
